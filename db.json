@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "My New Name",
+      "age": 453
+    },
+    {
+      "id": 2,
+      "name": "Matthiason",
+      "age": 345346
+    },
+    {
+      "name": "Connor",
+      "age": 30,
+      "id": 3
+    },
+    {
+      "name": "Mark",
+      "age": 20,
+      "id": 4
+    },
+    {
+      "name": "Helda",
+      "age": 20,
+      "id": 5
+    },
+    {
+      "name": "Terry",
+      "age": 38,
+      "id": 6
+    }
+  ]
+}
